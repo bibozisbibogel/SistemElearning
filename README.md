@@ -85,4 +85,3 @@ Fisierul `.env` din backend contine:
 DATABASE_URL=postgresql://postgres:postgres@localhost:5432/EduBuddy
 ```
 
-Modifica daca ai alte credentiale.
